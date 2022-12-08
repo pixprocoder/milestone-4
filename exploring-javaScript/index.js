@@ -27,5 +27,23 @@
  * Event
  */
 
-const userName = "Sk";
-console.log(userName);
+let egg = 28;
+let rice = 334;
+
+let addition = egg + rice;
+let subtract = rice - egg;
+let multiplication = egg * rice;
+let division = rice / egg;
+
+// console.log(addition);
+// console.log(subtract);
+// console.log(multiplication);
+// console.log(division);
+
+// console.log(egg);
+
+let love = 100;
+love = love - 1;
+love -= 1;
+love--;
+console.log(love);
